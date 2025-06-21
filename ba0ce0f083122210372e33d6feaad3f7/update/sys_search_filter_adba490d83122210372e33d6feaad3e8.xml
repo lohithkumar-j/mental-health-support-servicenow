@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Support Request">6dba490d83122210372e33d6feaad3d7</ais_search_source>
+        <label>Support Request</label>
+        <name>Support Request</name>
+        <order>100</order>
+        <search_context_config display_value="Mental Health Support AI Search Configuration">73aac50d0e122210144cdd7c6fe9acef</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-21 01:11:36</sys_created_on>
+        <sys_id>adba490d83122210372e33d6feaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Support Request</sys_name>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>sys_search_filter_adba490d83122210372e33d6feaad3e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-21 01:11:36</sys_updated_on>
+    </sys_search_filter>
+</record_update>

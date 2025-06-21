@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_1647028_mental_0.Audience for app mental-health-support</api_name>
+        <description/>
+        <name>Audience for app mental-health-support</name>
+        <role_names/>
+        <roles>7e0c24f083122210372e33d6feaad30a,3a0c24f083122210372e33d6feaad307,fe0c24f083122210372e33d6feaad300,b20c24f083122210372e33d6feaad30e</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-21 01:11:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4ba490d83122210372e33d6feaad329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app mental-health-support</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>sys_ux_applicability_b4ba490d83122210372e33d6feaad329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-21 01:11:33</sys_updated_on>
+    </sys_ux_applicability>
+</record_update>

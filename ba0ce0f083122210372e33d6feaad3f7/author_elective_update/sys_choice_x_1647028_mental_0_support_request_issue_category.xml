@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="issue_category" table="x_1647028_mental_0_support_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>issue_category</element>
+            <name>x_1647028_mental_0_support_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-20 04:44:59</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>issue_category</sys_name>
+            <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+            <sys_update_name>sys_choice_x_1647028_mental_0_support_request_issue_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-20 04:44:59</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Academic Stress</label>
+            <language>en</language>
+            <name>x_1647028_mental_0_support_request</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-20 04:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-20 04:44:59</sys_updated_on>
+            <value>academic_stress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Anxiety</label>
+            <language>en</language>
+            <name>x_1647028_mental_0_support_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-20 04:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-20 04:44:59</sys_updated_on>
+            <value>anxiety</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Depression</label>
+            <language>en</language>
+            <name>x_1647028_mental_0_support_request</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-20 04:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-20 04:44:59</sys_updated_on>
+            <value>depression</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Peer Conflict</label>
+            <language>en</language>
+            <name>x_1647028_mental_0_support_request</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-20 04:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-20 04:44:59</sys_updated_on>
+            <value>peer_conflict</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>issue_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Career Confusion</label>
+            <language>en</language>
+            <name>x_1647028_mental_0_support_request</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-20 04:44:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-20 04:44:59</sys_updated_on>
+            <value>career_confusion</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
