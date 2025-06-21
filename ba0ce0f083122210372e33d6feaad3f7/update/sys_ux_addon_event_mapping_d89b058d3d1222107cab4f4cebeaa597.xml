@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_addon_event_mapping">
+    <sys_ux_addon_event_mapping action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <controller/>
+        <description/>
+        <name>Request Navigation</name>
+        <parent_macroponent display_value="Landing Page">509b058d071222107a652699bbfd2f98</parent_macroponent>
+        <source_component/>
+        <source_da display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</source_da>
+        <source_element_id>data_row_2</source_element_id>
+        <sys_class_name>sys_ux_addon_event_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-21 01:15:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d89b058d3d1222107cab4f4cebeaa597</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Navigation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>sys_ux_addon_event_mapping_d89b058d3d1222107cab4f4cebeaa597</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-21 01:15:23</sys_updated_on>
+        <target_event display_value="My request">549b058da7122210ea3ddc55b4807997</target_event>
+        <target_payload_mapping>{
+  "type": "MAP_CONTAINER",
+  "container": {
+    "sysId": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "sysId"
+        ]
+      }
+    },
+    "table": {
+      "type": "EVENT_PAYLOAD_BINDING",
+      "binding": {
+        "address": [
+          "table"
+        ]
+      }
+    }
+  }
+}</target_payload_mapping>
+    </sys_ux_addon_event_mapping>
+</record_update>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="284de83483122210372e33d6feaad3d0" label="Support Request" max_length="40" name="x_1647028_mental_0_support_request" text_index="true" type="collection">
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Assigned" sequence="1" value="assigned"/>
+                <element inactive_on_update="false" label="Scheduled" sequence="2" value="scheduled"/>
+                <element inactive_on_update="false" label="Completed" sequence="3" value="completed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+            </choice>
+        </element>
+        <element label="Feedback Comments" max_length="40" name="feedback_comments" type="string"/>
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="x_1647028_mental_0_support_request" type="reference"/>
+        <element label="Appointment Date/Time" max_length="40" name="appointment_date_time" type="glide_date_time"/>
+        <element label="Feedback Rating" max_length="40" name="feedback_rating" type="integer"/>
+        <element choice="1" label="Urgency" max_length="40" name="urgency" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" sequence="2" value="high"/>
+                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+            </choice>
+        </element>
+        <element choice="1" label="Issue Category" max_length="40" name="issue_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Depression" sequence="2" value="depression"/>
+                <element inactive_on_update="false" label="Peer Conflict" sequence="3" value="peer_conflict"/>
+                <element inactive_on_update="false" label="Career Confusion" sequence="4" value="career_confusion"/>
+                <element inactive_on_update="false" label="Academic Stress" sequence="0" value="academic_stress"/>
+                <element inactive_on_update="false" label="Anxiety" sequence="1" value="anxiety"/>
+            </choice>
+        </element>
+        <element label="Anonymous" max_length="40" name="anonymous" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element choice="1" label="Preferred Mode" max_length="40" name="preferred_mode" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Call, In-person" sequence="2" value="call_in_person"/>
+                <element inactive_on_update="false" label="Chat" sequence="0" value="chat"/>
+                <element inactive_on_update="false" label="Email" sequence="1" value="email"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

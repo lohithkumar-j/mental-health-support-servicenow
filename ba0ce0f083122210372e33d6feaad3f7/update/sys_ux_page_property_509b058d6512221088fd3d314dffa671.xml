@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="Mental Health Support Portal">509b058dbb122210e6ea8c96d8391468</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-21 01:15:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>509b058d6512221088fd3d314dffa671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>sys_ux_page_property_509b058d6512221088fd3d314dffa671</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-21 01:15:22</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1647028_mental_0.509b058dbb122210e6ea8c96d8391468.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=509b058d6512221088fd3d314dffa671"/>
+</record_update>

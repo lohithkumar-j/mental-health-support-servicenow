@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_context_config">
+    <sys_search_context_config action="INSERT_OR_UPDATE">
+        <collapse_attachment>false</collapse_attachment>
+        <enable_exact_match>true</enable_exact_match>
+        <evam_definition display_value="AI Search For Next Search">f78b729b53d801109fa9ddeeff7b1201</evam_definition>
+        <filter_genius_results_by_search_source>false</filter_genius_results_by_search_source>
+        <genius_results_limit>1</genius_results_limit>
+        <hit_highlighting>false</hit_highlighting>
+        <log_signals_server_side>false</log_signals_server_side>
+        <name>Mental Health Support AI Search Configuration</name>
+        <search_engine>ai_search</search_engine>
+        <search_profile display_value="mental-health-support Search Profile">73aac50d33122210cebcf324809442f6</search_profile>
+        <search_results_limit>10</search_results_limit>
+        <show_tab_counts>true</show_tab_counts>
+        <spell_check>true</spell_check>
+        <suggestions_to_show_limit>10</suggestions_to_show_limit>
+        <sys_class_name>sys_search_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-21 01:11:31</sys_created_on>
+        <sys_id>73aac50d0e122210144cdd7c6fe9acef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mental Health Support AI Search Configuration</sys_name>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>sys_search_context_config_73aac50d0e122210144cdd7c6fe9acef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-21 01:11:31</sys_updated_on>
+        <ts_index_group/>
+        <view/>
+    </sys_search_context_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=73aac50d0e122210144cdd7c6fe9acef"/>
+</record_update>

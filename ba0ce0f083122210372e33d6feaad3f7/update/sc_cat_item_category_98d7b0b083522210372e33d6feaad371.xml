@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Submit Support Request">c9d470bc83122210372e33d6feaad3cd</sc_cat_item>
+        <sc_category display_value="Mental Health Support">f446b03083522210372e33d6feaad301</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-20 05:10:34</sys_created_on>
+        <sys_id>98d7b0b083522210372e33d6feaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mental Health Support.Submit Support Request</sys_name>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>sc_cat_item_category_98d7b0b083522210372e33d6feaad371</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-20 05:10:34</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

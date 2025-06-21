@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">c077810983122210372e33d6feaad305</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"extensionType":"bar","filterConfigurations":"@state.parFilters","showDataLabels":false,"disableTooltip":false,"showXGrid":false,"showYGrid":true,"hideYAxis0":false,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","chartVariation":"stacked","newReporting":false,"additionalGroupByConfig":[],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":true,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"dataPassthrough":null,"sortByOrder":null,"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","contextMenuActions":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":12,"showAbsolutePeriod":false,"scoreType":"latest","showChangeFrom":null,"period":"M","dateFormat":"default","configVersion":"23.0.0-ci-SNAPSHOT","sortBy":null,"refreshFrequency":false,"dataCategory":"group","colorConfig":{"type":"default"},"headerTitle":"% Successful change distributed by type","dataSources":[{"allowRealTime":false,"allowTotalValue":false,"indicatorType":"2","isScriptedIndicator":false,"label":"% Successful changes","sourceType":"indicator","uuid":{"indicator":"934c59e7437131107f9fbbfd6bb8f2fb","breakdowns":[]},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yOTM0YzU5ZTc0MzcxMzExMDdmOWZiYmZkNmJiOGYyZmIxNjk5NDU1ODkzODk2","dataCategories":["trend","group","simple"]}],"trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5T1RNMFl6VTVaVGMwTXpjeE16RXhNRGRtT1daaVltWmtObUppT0dZeVptSXhOams1TkRVMU9Ea3pPRGsyMTY5OTQ1NTg5NDQ0Mw=="}]},"metrics":[{"dataSource":"aW5kaWNhdG9yOTM0YzU5ZTc0MzcxMzExMDdmOWZiYmZkNmJiOGYyZmIxNjk5NDU1ODkzODk2","id":"YVc1a2FXTmhkRzl5T1RNMFl6VTVaVGMwTXpjeE16RXhNRGRtT1daaVltWmtObUppT0dZeVptSXhOams1TkRVMU9Ea3pPRGsyMTY5OTQ1NTg5NDQ0Mw==","aggregateIndicator":"587fad00eb31020065deac6aa206fea5","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary","frequencyInterval":"MONTH_PLUS"}],"groupBy":[{"groupBy":[{"dataSource":"aW5kaWNhdG9yOTM0YzU5ZTc0MzcxMzExMDdmOWZiYmZkNmJiOGYyZmIxNjk5NDU1ODkzODk2","groupByField":"ae1b0255c382411005aea539e540dd87","metric":"YVc1a2FXTmhkRzl5T1RNMFl6VTVaVGMwTXpjeE16RXhNRGRtT1daaVltWmtObUppT0dZeVptSXhOams1TkRVMU9Ea3pPRGsyMTY5OTQ1NTg5NDQ0Mw==","isRange":false,"isChoice":false,"isPaBucket":false}],"maxNumberOfGroups":"ALL","numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"hideZeroValues":false,"disableRanges":false}],"noDebounce":"","description":"Distribution of the change requests that are successfully closed by change type"}</component_props>
+        <h>12</h>
+        <name>% Successful change distributed by type</name>
+        <stored_component display_value="% Successful change distributed by type">3cf5acc3431231107f9fbbfd6bb8f269</stored_component>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-21 01:00:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2d48c54983122210372e33d6feaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>% Successful change distributed by type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Mental Health Support" source="x_1647028_mental_0">ba0ce0f083122210372e33d6feaad3f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mental Health Support">ba0ce0f083122210372e33d6feaad3f7</sys_scope>
+        <sys_update_name>par_dashboard_widget_2d48c54983122210372e33d6feaad3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-21 01:00:57</sys_updated_on>
+        <visualization/>
+        <w>12</w>
+        <widget_props/>
+        <x>12</x>
+        <y>26</y>
+    </par_dashboard_widget>
+</record_update>
