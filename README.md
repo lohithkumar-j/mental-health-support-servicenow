@@ -61,7 +61,7 @@ This project is actively maintained. Feel free to fork and contribute to new fea
 ## 📫 Contact
 **Author:** Lohith Kumar J  
 **LinkedIn:** [linkedin.com/in/lohithkumar-j](https://www.linkedin.com/in/janapalalohithkumar/)  
-**Email:** 2200032949
+**Email:** 2200032949cseh@gmail.com
 
 ---
 
